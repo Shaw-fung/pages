@@ -1,0 +1,11 @@
+{
+  "name": "my-worker",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wrangler dev",
+    "build": "wrangler build"
+  },
+  "devDependencies": {
+    "@cloudflare/wrangler": "^2.0.0"
+  }
+}
